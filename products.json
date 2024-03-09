@@ -1,0 +1,62 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 999,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 1099,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 15",
+    "price": 1499,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Note 11",
+    "price": 299,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Pro 2023",
+    "price": 1999,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "price": 799,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Inspiron 14",
+    "price": 799,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "Xiaomi Mi 11",
+    "price": 599,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 599,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung QLED TV",
+    "price": 1499,
+    "featured": true,
+    "company": "samsung"
+  }
+]
